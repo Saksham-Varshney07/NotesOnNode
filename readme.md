@@ -17,7 +17,7 @@ node index.js add "Title" "Note content"
 node index.js list
 node index.js read <id>
 node index.js delete <id>
-
+```
 
 <img width="566" height="47" alt="image" src="https://github.com/user-attachments/assets/610d0c82-8982-4a31-9b61-9f43b82c6866" />
 <img width="371" height="106" alt="image" src="https://github.com/user-attachments/assets/43701227-0759-401a-8dda-28160a04f65d" />
