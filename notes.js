@@ -37,11 +37,9 @@ const addNote = (title,body) => {
         body 
     });
 
-
     saveNotes(notes);
     console.log("Note added successfully !");
 
-    
 };
 
 // to list notes
@@ -98,4 +96,3 @@ module.exports ={
     deleteNote
 };
 
-console.log("Notes file path:", notesPath);
